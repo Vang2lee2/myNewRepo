@@ -1,0 +1,3 @@
+# myNewRepo
+School Github
+hello
